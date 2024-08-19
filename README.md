@@ -54,7 +54,6 @@ Create a `.env` file in the backend directory with the following:
 ```bash
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET_KEY=your_jwt_secret
-PORT=5000
 ```
 
 **Run the Application**
