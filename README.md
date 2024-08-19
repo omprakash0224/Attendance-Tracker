@@ -52,8 +52,8 @@ npm install react react-dom axios react-router-dom react-toastify
 Create a `.env` file in the backend directory with the following:
 
 ```bash
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET_KEY=your_jwt_secret
 PORT=5000
 ```
 
