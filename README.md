@@ -37,6 +37,7 @@ cd attendance-tracker
 
 ```bash
 cd Backend
+npm install
 npm install bcryptjs cors dotenv express jsonwebtoken mongoose react-toastify uuid zod
 ``` 
 
@@ -44,6 +45,7 @@ npm install bcryptjs cors dotenv express jsonwebtoken mongoose react-toastify uu
 
 ```bash
 cd Client
+npm install
 npm install react react-dom axios react-router-dom react-toastify
 ```
 
